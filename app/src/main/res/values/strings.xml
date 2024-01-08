@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="AppNameSplash">Shopping List</string>
+    <string name="price_error_message">Please input numeric price</string>
+    <string name="please_enter_item_description">Please enter item description</string>
+    <string name="please_enter_title">Please enter title</string>
+    <string name="no_items">No items</string>
+    <string name="enter_item_here">Enter item here:</string>
+    <string name="enter_description_here">Enter description here:</string>
+    <string name="enter_price">Enter price:</string>
+    <string name="purchased">Purchased</string>
+    <string name="save">Save</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="food">Food</string>
+    <string name="tech">Tech</string>
+    <string name="meds">Meds</string>
+    <string name="total">"Total: "</string>
+    <string name="main">Main</string>
+</resources>
